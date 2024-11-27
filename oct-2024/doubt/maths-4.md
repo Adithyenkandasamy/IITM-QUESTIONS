@@ -19,7 +19,8 @@ identity - (a,a),(b,b),(c,c)
 
 question-8
 use the venn diagram
-
-
 (x^-x)**2+(y^-y)**2
 squared formula
+
+
+
